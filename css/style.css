@@ -32,6 +32,16 @@
     border: none;
     border-radius: 5px;
 }
+.btn:hover{
+    cursor: pointer;
+    box-shadow: 0 0 8px gray;
+    font-size: 18px;
+}
+.btn-white:hover{
+    cursor: pointer;
+    box-shadow: 0 0 10px #F15B22;
+    font-size: 18px;
+}
 .same-para{
     font-size: 16px;
     line-height: 26px;
